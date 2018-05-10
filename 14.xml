@@ -1,0 +1,4874 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<REQUEST>
+	<DEVICEID>ROLAND-2017-05-15-17-12-03</DEVICEID>
+	<CONTENT>
+		<BIOS>
+			<SMANUFACTURER>Supermicro</SMANUFACTURER>
+			<SMODEL>X7DB8</SMODEL>
+			<SSN>0123456789</SSN>
+			<TYPE>Other</TYPE>
+			<BMANUFACTURER>Phoenix Technologies LTD</BMANUFACTURER>
+			<BVERSION>6.00</BVERSION>
+			<BDATE>08/13/2007</BDATE>
+			<ASSETTAG />
+			<MMANUFACTURER />
+			<MMODEL />
+			<MSN />
+		</BIOS>
+		<CONTROLLERS>
+			<ID>1035</ID>
+			<MANUFACTURER>(Standard floppy disk controllers)</MANUFACTURER>
+			<NAME>Standard floppy disk controller</NAME>
+			<CAPTION>Standard floppy disk controller</CAPTION>
+			<DESCRIPTION>Standard floppy disk controller</DESCRIPTION>
+			<VERSION />
+			<TYPE>Floppy Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>1036</ID>
+			<MANUFACTURER>(Standard IDE ATA/ATAPI controllers)</MANUFACTURER>
+			<NAME>Standard Dual Channel PCI IDE Controller</NAME>
+			<CAPTION>Standard Dual Channel PCI IDE Controller</CAPTION>
+			<DESCRIPTION>Standard Dual Channel PCI IDE Controller</DESCRIPTION>
+			<VERSION />
+			<TYPE>IDE Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>1037</ID>
+			<MANUFACTURER>(Standard IDE ATA/ATAPI controllers)</MANUFACTURER>
+			<NAME>ATA Channel 0</NAME>
+			<CAPTION>ATA Channel 0</CAPTION>
+			<DESCRIPTION>IDE Channel</DESCRIPTION>
+			<VERSION />
+			<TYPE>IDE Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>1038</ID>
+			<MANUFACTURER>(Standard IDE ATA/ATAPI controllers)</MANUFACTURER>
+			<NAME>ATA Channel 1</NAME>
+			<CAPTION>ATA Channel 1</CAPTION>
+			<DESCRIPTION>IDE Channel</DESCRIPTION>
+			<VERSION />
+			<TYPE>IDE Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>1039</ID>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<NAME>Microsoft iSCSI инициатор</NAME>
+			<CAPTION>Microsoft iSCSI инициатор</CAPTION>
+			<DESCRIPTION>Microsoft iSCSI инициатор</DESCRIPTION>
+			<VERSION />
+			<TYPE>SCSI Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>1040</ID>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<NAME>Microsoft Storage Spaces Controller</NAME>
+			<CAPTION>Microsoft Storage Spaces Controller</CAPTION>
+			<DESCRIPTION>Microsoft Storage Spaces Controller</DESCRIPTION>
+			<VERSION />
+			<TYPE>SCSI Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>1041</ID>
+			<MANUFACTURER>Adaptec</MANUFACTURER>
+			<NAME>Adaptec RAID 3805</NAME>
+			<CAPTION>Adaptec RAID 3805</CAPTION>
+			<DESCRIPTION>Adaptec RAID 3805</DESCRIPTION>
+			<VERSION />
+			<TYPE>SCSI Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>1042</ID>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<NAME>Microsoft VHD Loopback Controller</NAME>
+			<CAPTION>Microsoft VHD Loopback Controller</CAPTION>
+			<DESCRIPTION>Microsoft VHD Loopback Controller</DESCRIPTION>
+			<VERSION />
+			<TYPE>SCSI Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>1043</ID>
+			<MANUFACTURER>Intel</MANUFACTURER>
+			<NAME>Intel(R) 631xESB/6321ESB/3100 Chipset USB Universal Host Controller - 2689</NAME>
+			<CAPTION>Intel(R) 631xESB/6321ESB/3100 Chipset USB Universal Host Controller - 2689</CAPTION>
+			<DESCRIPTION>Intel(R) 631xESB/6321ESB/3100 Chipset USB Universal Host Controller - 2689</DESCRIPTION>
+			<VERSION />
+			<TYPE>USB Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>1044</ID>
+			<MANUFACTURER>Intel</MANUFACTURER>
+			<NAME>Intel(R) 631xESB/6321ESB/3100 Chipset USB Universal Host Controller - 268A</NAME>
+			<CAPTION>Intel(R) 631xESB/6321ESB/3100 Chipset USB Universal Host Controller - 268A</CAPTION>
+			<DESCRIPTION>Intel(R) 631xESB/6321ESB/3100 Chipset USB Universal Host Controller - 268A</DESCRIPTION>
+			<VERSION />
+			<TYPE>USB Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>1045</ID>
+			<MANUFACTURER>Intel</MANUFACTURER>
+			<NAME>Intel(R) 631xESB/6321ESB/3100 Chipset USB2 Enhanced Host Controller - 268C</NAME>
+			<CAPTION>Intel(R) 631xESB/6321ESB/3100 Chipset USB2 Enhanced Host Controller - 268C</CAPTION>
+			<DESCRIPTION>Intel(R) 631xESB/6321ESB/3100 Chipset USB2 Enhanced Host Controller - 268C</DESCRIPTION>
+			<VERSION />
+			<TYPE>USB Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>1046</ID>
+			<MANUFACTURER>Intel</MANUFACTURER>
+			<NAME>Intel(R) 631xESB/6321ESB/3100 Chipset USB Universal Host Controller - 2688</NAME>
+			<CAPTION>Intel(R) 631xESB/6321ESB/3100 Chipset USB Universal Host Controller - 2688</CAPTION>
+			<DESCRIPTION>Intel(R) 631xESB/6321ESB/3100 Chipset USB Universal Host Controller - 2688</DESCRIPTION>
+			<VERSION />
+			<TYPE>USB Controller</TYPE>
+		</CONTROLLERS>
+		<CPUS>
+			<ID>9</ID>
+			<MANUFACTURER>GenuineIntel</MANUFACTURER>
+			<TYPE>Intel(R) Xeon(R) CPU E5345 @ 2.33GHz</TYPE>
+			<SERIALNUMBER>CPU Enabled</SERIALNUMBER>
+			<SPEED>2333</SPEED>
+			<CORES>4</CORES>
+			<L2CACHESIZE>8192</L2CACHESIZE>
+			<CPUARCH>x86_64</CPUARCH>
+			<DATA_WIDTH>64</DATA_WIDTH>
+			<CURRENT_ADDRESS_WIDTH>64</CURRENT_ADDRESS_WIDTH>
+			<LOGICAL_CPUS>4</LOGICAL_CPUS>
+			<VOLTAGE />
+			<CURRENT_SPEED>2333</CURRENT_SPEED>
+			<SOCKET>LGA771/CPU1</SOCKET>
+		</CPUS>
+		<CPUS>
+			<ID>10</ID>
+			<MANUFACTURER>GenuineIntel</MANUFACTURER>
+			<TYPE>Intel(R) Xeon(R) CPU E5345 @ 2.33GHz</TYPE>
+			<SERIALNUMBER>CPU Enabled</SERIALNUMBER>
+			<SPEED>2333</SPEED>
+			<CORES>4</CORES>
+			<L2CACHESIZE>8192</L2CACHESIZE>
+			<CPUARCH>x86_64</CPUARCH>
+			<DATA_WIDTH>64</DATA_WIDTH>
+			<CURRENT_ADDRESS_WIDTH>64</CURRENT_ADDRESS_WIDTH>
+			<LOGICAL_CPUS>4</LOGICAL_CPUS>
+			<VOLTAGE />
+			<CURRENT_SPEED>2333</CURRENT_SPEED>
+			<SOCKET>LGA771/CPU2</SOCKET>
+		</CPUS>
+		<DRIVES>
+			<ID>10596</ID>
+			<LETTER>A:</LETTER>
+			<TYPE>Removable Drive</TYPE>
+			<FILESYSTEM />
+			<TOTAL>0</TOTAL>
+			<FREE>0</FREE>
+			<NUMFILES>0</NUMFILES>
+			<VOLUMN />
+			<CREATEDATE>0000-00-00</CREATEDATE>
+		</DRIVES>
+		<DRIVES>
+			<ID>10597</ID>
+			<LETTER>C:</LETTER>
+			<TYPE>Hard Drive</TYPE>
+			<FILESYSTEM>NTFS</FILESYSTEM>
+			<TOTAL>139795</TOTAL>
+			<FREE>10415</FREE>
+			<NUMFILES>0</NUMFILES>
+			<VOLUMN>System</VOLUMN>
+			<CREATEDATE>0000-00-00</CREATEDATE>
+		</DRIVES>
+		<DRIVES>
+			<ID>10598</ID>
+			<LETTER>D:</LETTER>
+			<TYPE>Hard Drive</TYPE>
+			<FILESYSTEM>NTFS</FILESYSTEM>
+			<TOTAL>571038</TOTAL>
+			<FREE>197814</FREE>
+			<NUMFILES>0</NUMFILES>
+			<VOLUMN>Data</VOLUMN>
+			<CREATEDATE>0000-00-00</CREATEDATE>
+		</DRIVES>
+		<DRIVES>
+			<ID>10599</ID>
+			<LETTER>E:</LETTER>
+			<TYPE>CD-Rom Drive</TYPE>
+			<FILESYSTEM />
+			<TOTAL>0</TOTAL>
+			<FREE>0</FREE>
+			<NUMFILES>0</NUMFILES>
+			<VOLUMN />
+			<CREATEDATE>0000-00-00</CREATEDATE>
+		</DRIVES>
+		<INPUTS>
+			<ID>7094</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Standard PS/2 Keyboard</CAPTION>
+			<DESCRIPTION>Standard PS/2 Keyboard</DESCRIPTION>
+			<INTERFACE>plugged into keyboard port</INTERFACE>
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7095</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7096</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7097</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7098</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7099</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7100</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7101</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7102</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7103</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7104</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7105</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7106</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7107</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7108</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7109</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7110</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7111</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7112</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7113</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7114</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7115</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Keyboard Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7116</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>HID Keyboard Device</CAPTION>
+			<DESCRIPTION>HID Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7117</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>HID Keyboard Device</CAPTION>
+			<DESCRIPTION>HID Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7118</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>HID Keyboard Device</CAPTION>
+			<DESCRIPTION>HID Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7119</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>HID Keyboard Device</CAPTION>
+			<DESCRIPTION>HID Keyboard Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7120</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>PS/2 Compatible Mouse</CAPTION>
+			<DESCRIPTION>PS/2 Compatible Mouse</DESCRIPTION>
+			<INTERFACE>plugged into PS/2 mouse port</INTERFACE>
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7121</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>HID-compliant mouse</CAPTION>
+			<DESCRIPTION>HID-compliant mouse</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7122</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7123</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7124</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7125</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7126</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7127</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7128</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7129</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7130</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7131</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7132</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7133</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>HID-compliant mouse</CAPTION>
+			<DESCRIPTION>HID-compliant mouse</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7134</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7135</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7136</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7137</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7138</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7139</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7140</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7141</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7142</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7143</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Remote Desktop Mouse Device</CAPTION>
+			<DESCRIPTION>Remote Desktop Mouse Device</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7144</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>HID-compliant mouse</CAPTION>
+			<DESCRIPTION>HID-compliant mouse</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7145</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>HID-compliant mouse</CAPTION>
+			<DESCRIPTION>HID-compliant mouse</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>7146</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>HID-compliant mouse</CAPTION>
+			<DESCRIPTION>HID-compliant mouse</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<MEMORIES>
+			<ID>91</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank1 (No ECC)</DESCRIPTION>
+			<CAPACITY>2048</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>DDR2</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>1</NUMSLOTS>
+			<SERIALNUMBER>01041780</SERIALNUMBER>
+		</MEMORIES>
+		<MEMORIES>
+			<ID>92</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank1 (No ECC)</DESCRIPTION>
+			<CAPACITY>2048</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>DDR2</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>2</NUMSLOTS>
+			<SERIALNUMBER>020418A1</SERIALNUMBER>
+		</MEMORIES>
+		<MEMORIES>
+			<ID>93</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank1 (No ECC)</DESCRIPTION>
+			<CAPACITY>4096</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>DDR2</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>3</NUMSLOTS>
+			<SERIALNUMBER>0101FFFF</SERIALNUMBER>
+		</MEMORIES>
+		<MEMORIES>
+			<ID>94</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank1 (No ECC)</DESCRIPTION>
+			<CAPACITY>0</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>Empty slot</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>4</NUMSLOTS>
+			<SERIALNUMBER />
+		</MEMORIES>
+		<MEMORIES>
+			<ID>95</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank2 (No ECC)</DESCRIPTION>
+			<CAPACITY>2048</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>DDR2</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>5</NUMSLOTS>
+			<SERIALNUMBER>01041772</SERIALNUMBER>
+		</MEMORIES>
+		<MEMORIES>
+			<ID>96</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank2 (No ECC)</DESCRIPTION>
+			<CAPACITY>2048</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>DDR2</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>6</NUMSLOTS>
+			<SERIALNUMBER>0104177A</SERIALNUMBER>
+		</MEMORIES>
+		<MEMORIES>
+			<ID>97</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank1 (No ECC)</DESCRIPTION>
+			<CAPACITY>4096</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>DDR2</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>7</NUMSLOTS>
+			<SERIALNUMBER>01208BC7</SERIALNUMBER>
+		</MEMORIES>
+		<MEMORIES>
+			<ID>98</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank1 (No ECC)</DESCRIPTION>
+			<CAPACITY>0</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>Empty slot</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>8</NUMSLOTS>
+			<SERIALNUMBER />
+		</MEMORIES>
+		<MEMORIES>
+			<ID>99</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank3 (No ECC)</DESCRIPTION>
+			<CAPACITY>2048</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>DDR2</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>9</NUMSLOTS>
+			<SERIALNUMBER>0104176C</SERIALNUMBER>
+		</MEMORIES>
+		<MEMORIES>
+			<ID>100</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank3 (No ECC)</DESCRIPTION>
+			<CAPACITY>2048</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>DDR2</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>10</NUMSLOTS>
+			<SERIALNUMBER>0104176E</SERIALNUMBER>
+		</MEMORIES>
+		<MEMORIES>
+			<ID>101</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank1 (No ECC)</DESCRIPTION>
+			<CAPACITY>4096</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>DDR2</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>11</NUMSLOTS>
+			<SERIALNUMBER>01200505</SERIALNUMBER>
+		</MEMORIES>
+		<MEMORIES>
+			<ID>102</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank1 (No ECC)</DESCRIPTION>
+			<CAPACITY>0</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>Empty slot</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>12</NUMSLOTS>
+			<SERIALNUMBER />
+		</MEMORIES>
+		<MEMORIES>
+			<ID>103</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank4 (No ECC)</DESCRIPTION>
+			<CAPACITY>2048</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>DDR2</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>13</NUMSLOTS>
+			<SERIALNUMBER>01041778</SERIALNUMBER>
+		</MEMORIES>
+		<MEMORIES>
+			<ID>104</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank4 (No ECC)</DESCRIPTION>
+			<CAPACITY>2048</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>DDR2</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>14</NUMSLOTS>
+			<SERIALNUMBER>01041771</SERIALNUMBER>
+		</MEMORIES>
+		<MEMORIES>
+			<ID>105</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank1 (No ECC)</DESCRIPTION>
+			<CAPACITY>4096</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>DDR2</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>15</NUMSLOTS>
+			<SERIALNUMBER>04283974</SERIALNUMBER>
+		</MEMORIES>
+		<MEMORIES>
+			<ID>106</ID>
+			<CAPTION>System Memory</CAPTION>
+			<DESCRIPTION>Bank1 (No ECC)</DESCRIPTION>
+			<CAPACITY>0</CAPACITY>
+			<PURPOSE>System Memory</PURPOSE>
+			<TYPE>Empty slot</TYPE>
+			<SPEED>667</SPEED>
+			<NUMSLOTS>16</NUMSLOTS>
+			<SERIALNUMBER />
+		</MEMORIES>
+		<MONITORS>
+			<ID>51</ID>
+			<MANUFACTURER>(Стандартные мониторы)</MANUFACTURER>
+			<CAPTION>Универсальный монитор не PnP</CAPTION>
+			<DESCRIPTION>Универсальный монитор не PnP</DESCRIPTION>
+			<TYPE>Универсальный монитор не PnP</TYPE>
+			<SERIAL />
+		</MONITORS>
+		<NETWORKS>
+			<ID>10</ID>
+			<DESCRIPTION>¥â¥¢®¥ ¯®¤ª«îç¥­¨¥ á ãáª®à¥­¨¥¬ ¢¢®¤ -¢ë¢®¤  Intel(R) PRO/1000 EB</DESCRIPTION>
+			<TYPE>Ethernet</TYPE>
+			<TYPEMIB>ethernetCsmacd</TYPEMIB>
+			<SPEED>1 Gb/s</SPEED>
+			<MTU />
+			<MACADDR>00:30:48:32:7C:C7</MACADDR>
+			<STATUS>Up</STATUS>
+			<IPADDRESS>192.168.1.72</IPADDRESS>
+			<IPMASK>255.255.255.0</IPMASK>
+			<IPGATEWAY>192.168.1.4</IPGATEWAY>
+			<IPSUBNET>192.168.1.0</IPSUBNET>
+			<IPDHCP />
+			<VIRTUALDEV>0</VIRTUALDEV>
+		</NETWORKS>
+		<PORTS>
+			<ID>34</ID>
+			<TYPE>Serial Port 16550A Compatible</TYPE>
+			<NAME>COM 1</NAME>
+			<CAPTION>COM 1 DB-9 pin male</CAPTION>
+			<DESCRIPTION>DB-9 pin male</DESCRIPTION>
+		</PORTS>
+		<PORTS>
+			<ID>35</ID>
+			<TYPE>Parallel Port ECP/EPP</TYPE>
+			<NAME>Parallel</NAME>
+			<CAPTION>Parallel DB-25 pin female</CAPTION>
+			<DESCRIPTION>DB-25 pin female</DESCRIPTION>
+		</PORTS>
+		<PORTS>
+			<ID>36</ID>
+			<TYPE>Keyboard Port</TYPE>
+			<NAME>Keyboard</NAME>
+			<CAPTION>Keyboard Circular DIN-8 male</CAPTION>
+			<DESCRIPTION>Circular DIN-8 male</DESCRIPTION>
+		</PORTS>
+		<PORTS>
+			<ID>37</ID>
+			<TYPE>Keyboard Port</TYPE>
+			<NAME>PS/2 Mouse</NAME>
+			<CAPTION>PS/2 Mouse Circular DIN-8 male</CAPTION>
+			<DESCRIPTION>Circular DIN-8 male</DESCRIPTION>
+		</PORTS>
+		<PRINTERS>
+			<ID>30704</ID>
+			<NAME>Финансы</NAME>
+			<DRIVER>HP LaserJet P205X series PCL6 Class Driver</DRIVER>
+			<PORT>192.168.1.67</PORT>
+			<DESCRIPTION />
+			<SERVERNAME />
+			<SHARENAME />
+			<RESOLUTION>600 x 600</RESOLUTION>
+			<COMMENT />
+			<SHARED>0</SHARED>
+			<NETWORK>0</NETWORK>
+		</PRINTERS>
+		<PRINTERS>
+			<ID>30705</ID>
+			<NAME>Персонал</NAME>
+			<DRIVER>Samsung Universal Print Driver 2 PCL6</DRIVER>
+			<PORT>192.168.1.64</PORT>
+			<DESCRIPTION />
+			<SERVERNAME />
+			<SHARENAME />
+			<RESOLUTION>600 x 600</RESOLUTION>
+			<COMMENT />
+			<SHARED>0</SHARED>
+			<NETWORK>0</NETWORK>
+		</PRINTERS>
+		<PRINTERS>
+			<ID>30706</ID>
+			<NAME>Ковдор</NAME>
+			<DRIVER>HP Universal Printing PCL 6</DRIVER>
+			<PORT>192.168.4.253</PORT>
+			<DESCRIPTION />
+			<SERVERNAME />
+			<SHARENAME />
+			<RESOLUTION>600 x 600</RESOLUTION>
+			<COMMENT />
+			<SHARED>0</SHARED>
+			<NETWORK>0</NETWORK>
+		</PRINTERS>
+		<PRINTERS>
+			<ID>30707</ID>
+			<NAME>Выписка</NAME>
+			<DRIVER>HP LaserJet 400 MFP M425 PCL 6</DRIVER>
+			<PORT>192.168.1.15</PORT>
+			<DESCRIPTION />
+			<SERVERNAME />
+			<SHARENAME />
+			<RESOLUTION>600 x 600</RESOLUTION>
+			<COMMENT />
+			<SHARED>0</SHARED>
+			<NETWORK>0</NETWORK>
+		</PRINTERS>
+		<PRINTERS>
+			<ID>30708</ID>
+			<NAME>Бухгалтерия</NAME>
+			<DRIVER>HP LaserJet M1530 MFP Series PCL 6</DRIVER>
+			<PORT>192.168.1.77_2</PORT>
+			<DESCRIPTION />
+			<SERVERNAME />
+			<SHARENAME />
+			<RESOLUTION>600 x 600</RESOLUTION>
+			<COMMENT />
+			<SHARED>0</SHARED>
+			<NETWORK>0</NETWORK>
+		</PRINTERS>
+		<PRINTERS>
+			<ID>30709</ID>
+			<NAME>PDFCreator</NAME>
+			<DRIVER>PDFCreator</DRIVER>
+			<PORT>pdfcmon</PORT>
+			<DESCRIPTION />
+			<SERVERNAME />
+			<SHARENAME>PDFCreator</SHARENAME>
+			<RESOLUTION>600 x 600</RESOLUTION>
+			<COMMENT>PDFCreator Printer</COMMENT>
+			<SHARED>0</SHARED>
+			<NETWORK>0</NETWORK>
+		</PRINTERS>
+		<PRINTERS>
+			<ID>30710</ID>
+			<NAME>Microsoft XPS Document Writer</NAME>
+			<DRIVER>Microsoft XPS Document Writer v4</DRIVER>
+			<PORT>PORTPROMPT:</PORT>
+			<DESCRIPTION />
+			<SERVERNAME />
+			<SHARENAME />
+			<RESOLUTION>600 x 600</RESOLUTION>
+			<COMMENT />
+			<SHARED>0</SHARED>
+			<NETWORK>0</NETWORK>
+		</PRINTERS>
+		<PRINTERS>
+			<ID>30711</ID>
+			<NAME>3 этаж Холл</NAME>
+			<DRIVER>HP Universal Printing PCL 6</DRIVER>
+			<PORT>192.168.1.133_1</PORT>
+			<DESCRIPTION />
+			<SERVERNAME />
+			<SHARENAME />
+			<RESOLUTION>600 x 600</RESOLUTION>
+			<COMMENT />
+			<SHARED>0</SHARED>
+			<NETWORK>0</NETWORK>
+		</PRINTERS>
+		<PRINTERS>
+			<ID>30712</ID>
+			<NAME>2 этаж Холл</NAME>
+			<DRIVER>HP LaserJet 400 MFP M425 PCL 6</DRIVER>
+			<PORT>192.168.1.11</PORT>
+			<DESCRIPTION />
+			<SERVERNAME />
+			<SHARENAME />
+			<RESOLUTION>600 x 600</RESOLUTION>
+			<COMMENT />
+			<SHARED>0</SHARED>
+			<NETWORK>0</NETWORK>
+		</PRINTERS>
+		<SLOTS>
+			<ID>14</ID>
+			<NAME>PCIX#1-100MHz</NAME>
+			<DESCRIPTION>PCI-X (data bus width 64 bits)</DESCRIPTION>
+			<DESIGNATION>PCIX#1-100MHz</DESIGNATION>
+			<PURPOSE>Available</PURPOSE>
+			<STATUS />
+			<PSHARE>0</PSHARE>
+		</SLOTS>
+		<SLOTS>
+			<ID>15</ID>
+			<NAME>PCIX#2-133MHz</NAME>
+			<DESCRIPTION>PCI-X (data bus width 64 bits)</DESCRIPTION>
+			<DESIGNATION>PCIX#2-133MHz</DESIGNATION>
+			<PURPOSE>Available</PURPOSE>
+			<STATUS />
+			<PSHARE>0</PSHARE>
+		</SLOTS>
+		<SLOTS>
+			<ID>16</ID>
+			<NAME>PCIX#3-133MHz</NAME>
+			<DESCRIPTION>PCI-X (data bus width 64 bits)</DESCRIPTION>
+			<DESIGNATION>PCIX#3-133MHz</DESIGNATION>
+			<PURPOSE>Available</PURPOSE>
+			<STATUS />
+			<PSHARE>0</PSHARE>
+		</SLOTS>
+		<SLOTS>
+			<ID>17</ID>
+			<NAME>PCIE#4-x4</NAME>
+			<DESCRIPTION>Other (data bus width Other)</DESCRIPTION>
+			<DESIGNATION>PCIE#4-x4</DESIGNATION>
+			<PURPOSE>In Use</PURPOSE>
+			<STATUS />
+			<PSHARE>0</PSHARE>
+		</SLOTS>
+		<SLOTS>
+			<ID>18</ID>
+			<NAME>PCIE#5-x8</NAME>
+			<DESCRIPTION>Other (data bus width Other)</DESCRIPTION>
+			<DESIGNATION>PCIE#5-x8</DESIGNATION>
+			<PURPOSE>Available</PURPOSE>
+			<STATUS />
+			<PSHARE>0</PSHARE>
+		</SLOTS>
+		<SLOTS>
+			<ID>19</ID>
+			<NAME>PCIE#6-x8</NAME>
+			<DESCRIPTION>Other (data bus width Other)</DESCRIPTION>
+			<DESIGNATION>PCIE#6-x8</DESIGNATION>
+			<PURPOSE>Available</PURPOSE>
+			<STATUS />
+			<PSHARE>0</PSHARE>
+		</SLOTS>
+		<SOFTWARES>
+			<ID>157309</ID>
+			<PUBLISHER>Exiland Software</PUBLISHER>
+			<NAME>Exiland Backup Free 4.5</NAME>
+			<VERSION>4.5.0.0</VERSION>
+			<FOLDER>C:/Exiland Backup Free/</FOLDER>
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>Exiland Backup Free_is1</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>2017-09-08 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157310</ID>
+			<PUBLISHER>OCS Inventory NG Team</PUBLISHER>
+			<NAME>OCS Inventory NG Agent 2.3.0.0</NAME>
+			<VERSION>2.3.0.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>OCS Inventory NG Agent</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157311</ID>
+			<PUBLISHER>pdfforge</PUBLISHER>
+			<NAME>PDFCreator</NAME>
+			<VERSION>1.7.3</VERSION>
+			<FOLDER />
+			<COMMENTS>PDFCreator - Opensource</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{0001B4FD-9EA3-4D90-A79E-FD14BA3AB01D}</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157312</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Report Viewer 2012 Runtime</NAME>
+			<VERSION>11.0.2100.60</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{0B86A907-B6A1-4289-A474-466BBF8520BD}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157313</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Visual Studio Tools for Applications x86 Runtime 3.0</NAME>
+			<VERSION>10.0.40220</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{191A6F65-6878-398D-A272-EF011B80F371}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157314</ID>
+			<PUBLISHER>Apache Software Foundation</PUBLISHER>
+			<NAME>OpenOffice 4.1.2</NAME>
+			<VERSION>4.12.9782</VERSION>
+			<FOLDER>C:/Program Files (x86)/OpenOffice 4/</FOLDER>
+			<COMMENTS>OpenOffice 4.1.2 (ru) (AOO412(Build:9782))</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{21B8775C-C570-4ED8-B53C-E5ADC872850A}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-20 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157315</ID>
+			<PUBLISHER>ФГУП ГНИВЦ ФНС РФ в ПФО</PUBLISHER>
+			<NAME>Печать НД с PDF417 3.0.32 (пакет)</NAME>
+			<VERSION>3.0.32</VERSION>
+			<FOLDER />
+			<COMMENTS>Компоненты для печати налоговых деклараций с двухмерным штрих кодом PDF417</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C5B0140-8405-46ED-8329-B666815AD193}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2016-01-26 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157316</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Языковой пакет для среды разработки набора средств Microsoft Visual Studio Tools для работы с приложениями 3.0 - RUS</NAME>
+			<VERSION>10.0.40219</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{43A66912-C05C-3F17-9279-2946CA421C31}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157317</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Visual Studio Tools for Applications Design-Time 3.0</NAME>
+			<VERSION>10.0.40220</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{5A03C202-08B4-3F1D-9A60-A4F53EF1B636}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157318</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Visual C++ 2010 x86 Runtime - 10.0.40219</NAME>
+			<VERSION>10.0.40219</VERSION>
+			<FOLDER />
+			<COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{5D9ED403-94DE-3BA0-B1D6-71F4BDA412E6}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157319</ID>
+			<PUBLISHER>1C</PUBLISHER>
+			<NAME>1C:Предприятие 8 (8.3.6.2363)</NAME>
+			<VERSION>8.3.6.2363</VERSION>
+			<FOLDER>C:/Program Files (x86)/1cv8/8.3.6.2363/</FOLDER>
+			<COMMENTS>1С:Предприятие 8</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{7F628939-6178-4DE5-BFC2-08D050641379}</GUID>
+			<LANGUAGE>Независимо от языка</LANGUAGE>
+			<INSTALLDATE>2015-12-20 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157320</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft System CLR Types для SQL Server 2012</NAME>
+			<VERSION>11.0.2100.60</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{83CCB7D8-3E7C-48C0-96B1-EC260377556C}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157321</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Политики Microsoft SQL Server 2012</NAME>
+			<VERSION>11.0.2100.60</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{88F9D393-5E18-4EE7-A282-9B86D7359D4B}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157322</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Объекты управления Microsoft SQL Server 2008 R2</NAME>
+			<VERSION>10.51.2500.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{8A03885D-B188-4CEA-B4E2-A9BF2A218C7D}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157323</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Application Error Reporting</NAME>
+			<VERSION>12.0.6012.5000</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{95120000-00B9-0409-0000-0000000FF1CE}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157324</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161</NAME>
+			<VERSION>9.0.30729.6161</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{9BE518E6-ECC6-35A9-88E4-87755C07200F}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-20 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157325</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Visual Studio 2010 Shell (Isolated) - RUS</NAME>
+			<VERSION>10.0.40219</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{9EF6770F-81CC-31A3-B771-FFA60889D348}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157326</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft SQL Server Data Tools – Database Projects – Web installer entry point</NAME>
+			<VERSION>10.3.20116.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{A1634423-E28D-4146-9691-1BD764A09D85}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157327</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Visual Studio 2010 Shell (Integrated) - RUS</NAME>
+			<VERSION>10.0.40219</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{A29CEFA2-C40C-30EE-901E-6156233297FD}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157328</ID>
+			<PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+			<NAME>Adobe Refresh Manager</NAME>
+			<VERSION>1.8.0</VERSION>
+			<FOLDER>C:/Program Files (x86)/Common Files/Adobe/ARM/1.0/</FOLDER>
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{AC76BA86-0804-1033-1959-001824161310}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-20 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157329</ID>
+			<PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+			<NAME>Adobe Acrobat Reader DC - Russian</NAME>
+			<VERSION>18.011.20038</VERSION>
+			<FOLDER>C:/Program Files (x86)/Adobe/Acrobat Reader DC/</FOLDER>
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{AC76BA86-7AD7-1049-7B44-AC0F074E4100}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2018-02-28 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157330</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4974</NAME>
+			<VERSION>9.0.30729.4974</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{B7E38540-E355-3503-AFD7-635B2F2F76E1}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157331</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft SQL Server 2012 Management Objects</NAME>
+			<VERSION>11.0.2100.60</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{BAB758D6-99AD-42A7-86EC-3D4DB232550F}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157332</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Необходимые компоненты для SSDT</NAME>
+			<VERSION>11.0.2100.60</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{C8441FAD-0FC7-4183-AC37-89C84D275D02}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157333</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft .NET Framework 4 Multi-Targeting Pack</NAME>
+			<VERSION>4.0.30319</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{CFEF48A8-BFB8-3EAC-8BA5-DE4F8AA267CE}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157334</ID>
+			<PUBLISHER>Gemalto</PUBLISHER>
+			<NAME>Sentinel Runtime</NAME>
+			<VERSION>7.63.14528.60000</VERSION>
+			<FOLDER>C:/Program Files (x86)/Common Files/Aladdin Shared/HASP/</FOLDER>
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{E6C5E2D4-B506-442F-9CCB-E9AAAEC1E17D}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2018-03-12 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157335</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Обозреватель SQL Server для SQL Server 2012</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{EAC7484C-8749-4249-8755-49BF134BE99F}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157336</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Системные типы Microsoft SQL Server System CLR Types</NAME>
+			<VERSION>10.51.2500.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{EED70A27-9657-4820-886A-4DE020FFA9D3}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157337</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Visual C++ 2010 x86 Redistributable - 10.0.40219</NAME>
+			<VERSION>10.0.40219</VERSION>
+			<FOLDER />
+			<COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}</GUID>
+			<LANGUAGE>Независимо от языка</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157338</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Языковой пакет для среды выполнения набора средств Microsoft Visual Studio Tools для работы с приложениями 3.0 (x86) - RUS</NAME>
+			<VERSION>10.0.40219</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{F419201E-A86B-3F05-8F15-67E585775A9A}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157339</ID>
+			<PUBLISHER>Piriform</PUBLISHER>
+			<NAME>CCleaner</NAME>
+			<VERSION>5.12</VERSION>
+			<FOLDER>C:/Program Files/CCleaner</FOLDER>
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>CCleaner</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157340</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Пакет обновления 3 для SQL Server 2012 (KB3072779) (64-bit)</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>KB3072779</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157341</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Help Viewer 1.1</NAME>
+			<VERSION>1.1.40219</VERSION>
+			<FOLDER>C:/Program Files/Microsoft Help Viewer/v1.0/</FOLDER>
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>Microsoft Help Viewer 1.1</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157342</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Help Viewer 1.1 Language Pack - RUS</NAME>
+			<VERSION>1.1.40219</VERSION>
+			<FOLDER>C:/Program Files/Microsoft Help Viewer/v1.0/</FOLDER>
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>Microsoft Help Viewer 1.1 Language Pack - RUS</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157343</ID>
+			<PUBLISHER />
+			<NAME>Microsoft SQL Server 2012 (64-разрядная версия)</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>Microsoft SQL Server 11</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157344</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft SQL Server 2012 (64-разрядная версия)</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>Microsoft SQL Server SQLServer2012</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157345</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft SQL Server 2012 RsFx Driver</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{0259C5EE-D53B-40A0-80A7-30C88D217749}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157346</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Distributed Replay</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{033DFDB6-AAFA-4AF0-B5CA-93276FA910EF}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157347</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Visual C++ 2005 Redistributable (x64)</NAME>
+			<VERSION>8.0.56336</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{071c9b48-7c32-4621-a0ac-3f809523288f}</GUID>
+			<LANGUAGE>Независимо от языка</LANGUAGE>
+			<INSTALLDATE>2016-01-11 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157348</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Management Studio</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{080A3F77-A03A-427E-8CD5-380407D260AD}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157349</ID>
+			<PUBLISHER>HP Inc.</PUBLISHER>
+			<NAME>64 Bit HP CIO Components Installer</NAME>
+			<VERSION>21.2.1</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{13DA9C7C-EBFB-40D0-94A1-55B42883DF21}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2018-02-09 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157350</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft SQL Server 2012 Transact-SQL Compiler Service</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{1833DBAB-526A-4165-9E04-E832B61C063F}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157351</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Database Engine Services</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{18B2A97C-92C3-4AC7-BE72-F823E0BC895B}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157352</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Data quality client</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{1A3769EB-32CD-4196-91F8-10A70E695EF3}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157353</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Data quality service</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{1ABA92B0-CD1F-478B-A351-415F79B2A9E6}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157354</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Visual C++ 2010 x64 Redistributable - 10.0.40219</NAME>
+			<VERSION>10.0.40219</VERSION>
+			<FOLDER />
+			<COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</GUID>
+			<LANGUAGE>Независимо от языка</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157355</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Common Files</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{202AAF1F-69AA-442A-B59F-6B54B1AD07C6}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157356</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft System CLR Types для SQL Server 2012 (x64)</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{27E749F8-DFC3-4B5F-B515-6C6129C05AD5}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157357</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Help Viewer 1.1 Language Pack - RUS</NAME>
+			<VERSION>1.1.40219</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{30C5BEB0-F2FD-376D-960E-0A6DBAB4C9C7}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157358</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Full text search</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{34A7A77A-A23D-44ED-B3B6-EC8198BE2622}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157359</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Distributed Replay</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3652FFB5-6F97-4113-9420-1A09A13FDDC8}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157360</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Integration Services</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{36BF5D42-BF68-4E0C-A165-A4C6E9841F4A}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157361</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Языковой пакет для среды выполнения набора средств Microsoft Visual Studio Tools для работы с приложениями 3.0 (x64) - RUS</NAME>
+			<VERSION>10.0.40219</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3BD61F09-DD9F-3B78-9E1B-C40FD051B7DD}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157362</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Платформа приложения уровня данных Microsoft SQL Server 2012</NAME>
+			<VERSION>11.1.2816.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{43FC2E8D-DC4E-425B-925B-1A5C531F1F8E}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157363</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Database Engine Shared</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{44DB0D8E-4E3C-44E8-AD7C-241577F31B79}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157364</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Data quality service</NAME>
+			<VERSION>11.0.2100.60</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{4BC4405F-CD3C-436E-B76B-267C29569DE1}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157365</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Analysis Services</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{4DFC06CB-886B-4853-B7EA-F205EB77C74D}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157366</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Database Engine Shared</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{54FF8FAB-DE27-4187-82F1-EBAE6AEE869A}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157367</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Надстр. Microsoft SQL Server 2012 RS для SharePoint</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{5A1CAA49-54BE-4D8C-995F-02B27943A3F6}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157368</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161</NAME>
+			<VERSION>9.0.30729.6161</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-20 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157369</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 BI Development Studio</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{656E214E-B73F-458C-AD64-ED316F008207}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157370</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Client Tools</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{68E244A3-82F9-4B1B-A794-B9F9877658FC}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157371</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Visual Studio 2010 Prerequisites - English</NAME>
+			<VERSION>10.0.40219</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{6A998908-D2B4-3AE3-83E8-22AD7040AEBA}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157372</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Documentation Components</NAME>
+			<VERSION>11.0.2100.60</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{74E58C3A-238B-4FC2-8508-897822112B7D}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157373</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Client Tools</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{7842C220-6E9A-4D5A-AE70-0E138271F883}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157374</ID>
+			<PUBLISHER>%COMPANY_LONG%</PUBLISHER>
+			<NAME>Adaptec Storage Manager</NAME>
+			<VERSION>7.31.00.18856</VERSION>
+			<FOLDER>C:/Program Files/Adaptec/Adaptec Storage Manager/</FOLDER>
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{7C3DAF8E-37AB-47D6-9157-ED9B56558341}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2017-07-11 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157375</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Data quality client</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{80162C08-0FA6-4656-9685-AD88C6527F0B}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157376</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft SQL Server 2012 Management Objects (x64)</NAME>
+			<VERSION>11.0.2100.60</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{8CF67936-B3B4-44E6-A22E-F2F173CF0453}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157377</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Documentation Components</NAME>
+			<VERSION>11.0.2100.60</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{8DE0A972-D305-4262-A038-DF837A658253}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157378</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 RS_SharePoint_SharedService</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{91C4DE4A-CE48-4F8B-9D73-D2BFB619FB88}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157379</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 BI Development Studio</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{92BD5D75-D631-4F8D-8FA7-D0540299ED4A}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157380</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Analysis Services</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{9674CB74-4808-4B59-B79D-9AB501F23279}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157381</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft SQL Server 2012 Transact-SQL ScriptDom</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{991EBD09-2CE7-49A7-89B6-B7F1A86AE8D6}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157382</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Файлы поддержки программы установки Microsoft SQL Server 2008</NAME>
+			<VERSION>10.1.2731.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{99DF7386-E40F-48AD-8A70-5200821A7993}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157383</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Database Engine Services</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{9B97C191-84C8-4A85-B574-974918514705}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157384</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Distributed Replay</NAME>
+			<VERSION>11.0.2100.60</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{A17FBE03-2A4B-461A-81F2-12F09FB0F020}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157385</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Common Files</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{A54FCEB3-8D1E-46B1-A7FC-F233B649F10B}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157386</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Management Studio</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{A7037EB2-F953-4B12-B843-195F4D988DA1}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157387</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Integration Services</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{AD6E9612-E4B9-4604-9829-03B0875EA8B3}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157388</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Службы синхронизации контроля версий для SQL Server 2012</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{B24A4A9D-1BEF-490C-AC54-989F4BD428A8}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157389</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Documentation Components</NAME>
+			<VERSION>11.0.2100.60</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{B3192F55-2CE8-4C8E-9E40-D3B4998276B2}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157390</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Sql Server Customer Experience Improvement Program</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{BED1EA3D-592D-4305-9D1F-20F03726EFC1}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157391</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Установка Microsoft SQL Server 2012 (на русском языке)</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{BF520091-6E0B-49E7-AE63-E3B14F5DE27B}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157392</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Distributed Replay</NAME>
+			<VERSION>11.0.2100.60</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{CEB88C04-D1C8-4002-B994-0D4F34E443D3}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157393</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 SQL Data Quality Common</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{D307B5CF-D1F0-48A4-8DA3-54765F535208}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157394</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Reporting Services</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{D645D042-F3ED-4700-BA58-0E9DC7FE22C7}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157395</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>SQL Server 2012 Reporting Services</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{DCCB1789-1DA0-4E3A-A52F-7815B602CC98}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157396</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Help Viewer 1.1</NAME>
+			<VERSION>1.1.40219</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{E5748D30-7E6D-3A8E-BFE6-C1D02C6DDABB}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157397</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Visual Studio Tools for Applications x64 Runtime 3.0</NAME>
+			<VERSION>10.0.40220</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{F14401A9-F0A0-33CC-8444-F60823A60DEB}</GUID>
+			<LANGUAGE>Английский (США)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157398</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft SQL Server 2012 Native Client</NAME>
+			<VERSION>11.3.6020.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{F3F7B950-7029-4E92-8755-225658C6F224}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157399</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Служба языка T-SQL Microsoft SQL Server 2012</NAME>
+			<VERSION>11.0.2100.60</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{F73A4822-8780-4E59-B08D-3587B36417F7}</GUID>
+			<LANGUAGE>Русский (Россия)</LANGUAGE>
+			<INSTALLDATE>2015-12-17 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157400</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2736693</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2736693)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157401</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2737084</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2737084)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157402</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2742614</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2742614)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157403</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2742616</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2742616)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157404</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2756872</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2756872)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157405</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2758246</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2758246)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157406</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2761094</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2761094)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157407</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2764870</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2764870)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157408</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2768703</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2768703)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157409</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2769165</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2769165)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157410</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2769166</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2769166)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157411</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2770660</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2770660)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157412</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2770917</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2770917)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157413</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2771821</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2771821)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157414</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2777166</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2777166)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157415</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2779768</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2779768)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157416</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2780342</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2780342)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157417</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2784160</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2784160)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157418</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2785094</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2785094)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157419</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2795944</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2795944)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157420</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2802618</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2802618)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157421</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2807986</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2807986)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157422</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2811660</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2811660)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157423</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2813430</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2813430)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157424</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2822241</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2822241)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157425</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2823516</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2823516)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157426</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2836988</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2836988)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157427</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2840632</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2840632)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157428</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2840633</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2840633)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157429</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2845533</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2845533)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157430</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2849568</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2849568)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157431</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2850674</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2850674)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157432</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2851234</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2851234)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157433</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2855336</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2855336)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157434</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2861704</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2861704)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157435</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2862073</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2862073)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157436</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2862330</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2862330)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157437</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2862335</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2862335)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157438</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2862768</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2862768)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157439</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2862966</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2862966)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157440</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2862973</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2862973)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157441</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2863725</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2863725)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157442</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2864202</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2864202)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157443</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2866029</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2866029)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157444</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2868038</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2868038)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157445</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2871389</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2871389)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157446</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2871997</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2871997)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157447</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2876415</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2876415)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157448</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2877211</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2877211)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157449</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2883201</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2883201)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157450</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2884256</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2884256)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157451</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2887069</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2887069)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157452</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2889784</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2889784)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157453</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2892074</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2892074)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157454</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2893294</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2893294)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157455</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2894851</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2894851)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157456</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2894855</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2894855)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157457</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2898865</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2898865)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157458</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2903938</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2903938)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157459</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2912390</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2912390)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157460</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2920189</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2920189)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157461</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2928678</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2928678)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157462</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2934016</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2934016)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157463</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2955163</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2955163)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157464</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2962407</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2962407)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157465</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2966825</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2966825)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157466</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2966827</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2966827)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157467</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2968295</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2968295)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157468</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2972101</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2972101)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157469</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2972212</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2972212)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157470</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2972280</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2972280)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157471</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2973113</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2973113)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157472</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2973201</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2973201)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157473</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2973351</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2973351)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157474</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2973501</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2973501)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157475</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2975331</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2975331)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157476</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2976897</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2976897)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157477</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2977292</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2977292)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157478</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2977766</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2977766)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157479</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2978042</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2978042)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157480</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2978121</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2978121)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157481</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2978127</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2978127)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157482</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2981685</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2981685)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157483</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2984005</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2984005)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157484</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Hotfix KB2985485</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2985485)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157485</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2992611</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2992611)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157486</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2995387</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2995387)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157487</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Hotfix KB2996928</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2996928)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157488</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2998527</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2998527)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157489</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2999323</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2999323)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157490</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3000483</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3000483)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157491</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB3000853</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3000853)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157492</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3004361</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3004361)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157493</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3004365</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3004365)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157494</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3004375</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3004375)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157495</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3006226</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3006226)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157496</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3010788</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3010788)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157497</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3011780</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3011780)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157498</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB3013767</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3013767)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157499</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3014029</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3014029)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157500</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB3018238</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3018238)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157501</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3019978</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3019978)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157502</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3021674</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3021674)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157503</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3022777</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3022777)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157504</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3023217</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3023217)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157505</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3023223</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3023223)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157506</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3030377</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3030377)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157507</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3033889</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3033889)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157508</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3035126</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3035126)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157509</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3035132</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3035132)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157510</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3035486</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3035486)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157511</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3035489</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3035489)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157512</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3037575</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3037575)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157513</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3037580</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3037580)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157514</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3042553</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3042553)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157515</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3045685</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3045685)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157516</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3046017</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3046017)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157517</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3055642</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3055642)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157518</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3059317</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3059317)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157519</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3060716</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3060716)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157520</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3063858</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3063858)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157521</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3067505</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3067505)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157522</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3067904</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3067904)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157523</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3068457</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3068457)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157524</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3069392</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3069392)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157525</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3071756</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3071756)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157526</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3072306</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3072306)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157527</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3072595</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3072595)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157528</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3072630</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3072630)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157529</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3072633</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3072633)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157530</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3074229</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3074229)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157531</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3074544</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3074544)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157532</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3074549</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3074549)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157533</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3075220</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3075220)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157534</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3076895</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3076895)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157535</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3080446</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3080446)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157536</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3081320</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3081320)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157537</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3082089</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3082089)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157538</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3083992</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3083992)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157539</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3084135</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3084135)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157540</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3086255</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3086255)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157541</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3087039</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3087039)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157542</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3088195</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3088195)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157543</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3092601</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3092601)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157544</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3097966</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3097966)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157545</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3097991</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3097991)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157546</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3097995</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3097995)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157547</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3098780</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3098780)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157548</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3099863</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3099863)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157549</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3102939</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3102939)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157550</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3104002</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3104002)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157551</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3108347</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3108347)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157552</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3108381</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3108381)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157553</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3109094</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3109094)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157554</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3109103</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3109103)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>157555</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Windows Server 2012 Standard</NAME>
+			<VERSION>6.2.9200</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>2015-12-16 00:00:00</INSTALLDATE>
+			<BITSWIDTH>64</BITSWIDTH>
+		</SOFTWARES>
+		<STORAGES>
+			<ID>39</ID>
+			<MANUFACTURER>(Standard floppy disk drives)</MANUFACTURER>
+			<NAME>Floppy disk drive</NAME>
+			<MODEL>Floppy disk drive</MODEL>
+			<DESCRIPTION>Floppy disk drive</DESCRIPTION>
+			<TYPE />
+			<DISKSIZE>0</DISKSIZE>
+			<SERIALNUMBER />
+			<FIRMWARE />
+		</STORAGES>
+		<STORAGES>
+			<ID>40</ID>
+			<MANUFACTURER>(Standard disk drives)</MANUFACTURER>
+			<NAME>Adaptec Array SCSI Disk Device</NAME>
+			<MODEL>//./PHYSICALDRIVE1</MODEL>
+			<DESCRIPTION>Disk drive</DESCRIPTION>
+			<TYPE>Fixed hard disk media</TYPE>
+			<DISKSIZE>139792</DISKSIZE>
+			<SERIALNUMBER>E54FEFB7</SERIALNUMBER>
+			<FIRMWARE>V1.0</FIRMWARE>
+		</STORAGES>
+		<STORAGES>
+			<ID>41</ID>
+			<MANUFACTURER>(Standard disk drives)</MANUFACTURER>
+			<NAME>Adaptec Array SCSI Disk Device</NAME>
+			<MODEL>//./PHYSICALDRIVE0</MODEL>
+			<DESCRIPTION>Disk drive</DESCRIPTION>
+			<TYPE>Fixed hard disk media</TYPE>
+			<DISKSIZE>571390</DISKSIZE>
+			<SERIALNUMBER>AA447AA7</SERIALNUMBER>
+			<FIRMWARE>V1.0</FIRMWARE>
+		</STORAGES>
+		<STORAGES>
+			<ID>42</ID>
+			<MANUFACTURER>(Standard CD-ROM drives)</MANUFACTURER>
+			<NAME>Slimtype COMBO SSC-2485K ATA Device</NAME>
+			<MODEL>Slimtype COMBO SSC-2485K ATA Device</MODEL>
+			<DESCRIPTION>CD-ROM Drive</DESCRIPTION>
+			<TYPE>CD Writer</TYPE>
+			<DISKSIZE>0</DISKSIZE>
+			<SERIALNUMBER />
+			<FIRMWARE />
+		</STORAGES>
+		<VIDEOS>
+			<ID>6</ID>
+			<NAME>Базовый видеоадаптер (Майкрософт)</NAME>
+			<CHIPSET>ATI ES1000</CHIPSET>
+			<MEMORY>0</MEMORY>
+			<RESOLUTION>1024 x 768</RESOLUTION>
+		</VIDEOS>
+		<HARDWARE>
+			<NAME>ROLAND</NAME>
+			<WORKGROUP>leotec.ru</WORKGROUP>
+			<USERDOMAIN />
+			<OSNAME>Microsoft Windows Server 2012 Standard</OSNAME>
+			<OSVERSION>6.2.9200</OSVERSION>
+			<OSCOMMENTS />
+			<PROCESSORT>Intel(R) Xeon(R) CPU E5345 @ 2.33GHz [4 core(s) x86_64]</PROCESSORT>
+			<PROCESSORS>2333</PROCESSORS>
+			<PROCESSORN>2</PROCESSORN>
+			<MEMORY>32768</MEMORY>
+			<SWAP>37119</SWAP>
+			<IPADDR>192.168.1.72</IPADDR>
+			<DNS />
+			<DEFAULTGATEWAY />
+			<ETIME />
+			<LASTDATE>2018-04-06 17:36:31</LASTDATE>
+			<LASTCOME>2018-04-06 17:36:31</LASTCOME>
+			<QUALITY>1.3104</QUALITY>
+			<FIDELITY>216</FIDELITY>
+			<USERID>anastasia.voronina</USERID>
+			<TYPE>0</TYPE>
+			<DESCRIPTION />
+			<WINCOMPANY />
+			<WINOWNER>Пользователь Windows</WINOWNER>
+			<WINPRODID>00184-20206-88134-AA883</WINPRODID>
+			<WINPRODKEY>MAK or VLK key unavailable</WINPRODKEY>
+			<USERAGENT>OCS-NG_WINDOWS_AGENT_v2.3.0.0</USERAGENT>
+			<CHECKSUM>262143</CHECKSUM>
+			<SSTATE>0</SSTATE>
+			<IPSRC>192.168.1.72</IPSRC>
+			<UUID>649FD153-63D6-17A0-8922-003048327CC6</UUID>
+			<ARCH>x86 64 bit</ARCH>
+		</HARDWARE>
+		<ACCOUNTINFO>
+			<KEYNAME>TAG</KEYNAME>
+			<KEYVALUE>Server</KEYVALUE>
+		</ACCOUNTINFO>
+	</CONTENT>
+	<QUERY>INVENTORY</QUERY>
+</REQUEST>
